@@ -6,7 +6,7 @@ Este es mi primer archivo **markdonw**.
 
 - las listas se ponen con guion y espacio
 - puedo hacer listas de más niveles:
- - basta con poner un espacio delante
+  - basta con poner un espacio delante
 - también puedo poner *italicas* con un solo asterisco
 - tambien negrita itálica usando ***tres asteriscos***
 
