@@ -4,7 +4,7 @@ Este es mi primer archivo **markdonw**.
 
 ## Con 2 se pone un título de segundo nivel ##
 
-- las listas se ponen con rion y espacio
+- las listas se ponen con guion y espacio
 - puedo hacer listas de más niveles:
  - basta con poner un espacio delante
 - también puedo poner *italicas* con un solo asterisco
